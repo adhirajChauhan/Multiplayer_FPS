@@ -143,6 +143,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Editor">
+      <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -158,6 +161,9 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.multiplayer-weaver.Editor">
+      <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -166,12 +172,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>D:/Brackeys Tutorials/MultiplayerFPS_BR/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
