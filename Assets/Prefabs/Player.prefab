@@ -171,7 +171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 5
   _lookSensitivity: 2
-  thrusterForce: 2000
+  thrusterForce: 2500
   jointMode: 1
   jointSpring: 20
   jointMaxForce: 40
